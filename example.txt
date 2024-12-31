@@ -1,0 +1,11 @@
+The dog is big. it has a long tAle. It loves to plaY fetch.
+The dog is very frienDly and loYal. It enJoys goIng for long walkS in the pArk.
+The doG is a mixEd breed.
+It is a mix betWeen a Golden retriever and a labrador retriever.
+The dog is verY smart and obeYs commAnds.
+It iS a great CompaNion for peOplez of all ages.
+The dog enJoys pLaying with with other dogsz in the dog Park.
+It is verY eneRgetic andz loves to run aRound.
+The dog is alWays happY and brings joy to everyone it meets.
+The dog is a grEat pet to haVep.Hello 123 4058 loo1.
+<div class="container">You can use the <strong>strong</strong> tag to make text bzld.</div>
